@@ -256,7 +256,7 @@ $\[
 
 ---
 
-<img src="q1.jpg" width="100%">
+<img src="FA_Q1.jpg" width="100%">
 
 
 
